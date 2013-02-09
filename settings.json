@@ -1,0 +1,16 @@
+{
+	"paths": {	// The paths to check.
+		"Movies": [
+			"/home/user/Local/Movies",
+			"/home/user/External/Movies",
+		],
+		"Series": [
+			"/home/user/Local/Series",
+			"/home/user/External/Series",
+		],
+		"Documentaries": [
+			"/home/user/Local/Documentaries",
+			"/home/user/External/Documentaries",
+		],
+	}
+}
